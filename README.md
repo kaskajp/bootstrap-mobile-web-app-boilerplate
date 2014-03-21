@@ -1,2 +1,4 @@
-bootstrap-mobile-web-app-boilerplate
+Bootstrap Mobile Web App Boilerplate
 ====================================
+
+Hammer for Mac in use. Check Build folder for compiled version.
