@@ -1,0 +1,68 @@
+/* Navbar styles */
+.navbar {
+	.btn.pull-left {
+		margin-left: 15px;
+	}
+}
+
+.navbar-top .top-nav-padding {
+	padding-top: 50px;
+}
+
+.navbar-bottom .bottom-nav-padding {
+	padding-bottom: 50px;
+}
+
+.page-header {
+	margin: 20px 0;
+}
+
+.navbar-fixed-bottom {
+	.btn-group {
+		padding-top: 4px;
+	}
+}
+
+.post {
+	.featured-image {
+		img {
+			display: block;
+			width: 100%;
+		}
+	}
+}
+
+/* Full width background image */
+.full-bg-image {
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.full-bg-image.pattern {
+	background-size: auto;
+	background-repeat: repeat;
+}
+
+.full-bg-image.dark {
+	color: #FFF;
+}
+
+/* Header sub navigation (bullets) */
+.boiler-header-sub-pagination {
+	border-bottom: 1px solid #E7E7E7;
+	background: #F8F8F8;
+	padding: 5px 0;
+	ul {
+		margin: 0;
+		border-radius: 0;
+		li {
+			display: inline-block;
+			a {
+				background: transparent;
+				border: 0;
+				float: none;
+			}
+		}
+	}
+}
